@@ -1,0 +1,8 @@
+{
+	"name": "gatsby-stats",
+	"version": "1.0.0",
+	"description": "Gatsby Repo Stats Puppet Script",
+	"dependencies": {
+		"puppeteer": "^1.17.0"
+	}
+}
