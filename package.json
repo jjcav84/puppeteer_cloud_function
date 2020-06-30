@@ -3,6 +3,6 @@
 	"version": "1.0.0",
 	"description": "Gatsby Repo Stats Puppet Script",
 	"dependencies": {
-		"puppeteer": "2.0.0"
+		"puppeteer": "4.0.1"
 	}
 }
